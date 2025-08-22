@@ -1,27 +1,6 @@
-print(browse(urls=["https://github.com/user-attachments/github-readme-stats", "https://github.com/devicons/devicon", "https://github.com/walkccc/markdown-theme-project", "https://github.com/abhijeet-rathore/github-readme-blogs", "https://github.com/anuraghazra/github-readme-stats", "https://www.reddit.com/r/github/comments/qzj24o/awesome_list_of_awesome_profile_readme_assets_and/"]))
-print(browse(urls=["https://dev.to/paolo_alderigo/create-a-beautiful-github-profile-readme-from-scratch-0fco"]))
-print(browse(urls=["https://gifer.com/en/popular/github-animation", "https://github.com/kattomid/awesome-github-profile-readme-template", "https://github.com/AbdelrahmanSayed/Awesome-Profile-README"]))
-```
-
-```tool_outputs
-Browsing the web.
-```
-
-```tool_outputs
-Browsing the web.
-```
-
-```tool_outputs
-Browsing the web.
-```
-Okay, I've gathered some resources. Based on them, here's a revamped README that incorporates more visual flair.
-
-**Updated `README.md` Content:**
-
-```markdown
 <div align="center">
   <!-- Animated GIF - You can find more at gifer.com or similar sites. Choose one relevant to coding or your interests. -->
-  <img src="https://media.giphy.com/media/VzHj6l6u02jMh3m50j/giphy.gif" alt="Animated Header" width="600"/>
+  <img src="https://media.giphy.com/media/VzHj6zMh3m50j/giphy.gif" alt="Animated Header" width="600"/>
 </div>
 
 <h1 align="center">Hey there! I'm Ali Elyoussoufi 👋</h1>
@@ -49,17 +28,14 @@ I am Ali Elyoussoufi, a proactive developer with a solid foundation in C program
 
 ---
 
+### 🎓 42 School Network
+
+As a proud alumnus/student of the **[42 School Network](https://www.42.fr/)**, I embrace its unique peer-to-peer learning culture and problem-solving approach.
+
 <!-- You can optionally add a 42 badge here if you find one you like! Search GitHub for "42 badge markdown" or use custom SVG badges. -->
 <!-- Example of how a badge might look (replace URL with an actual badge URL): -->
 <!-- <p align="center"><img src="https://img.shields.io/badge/42-Network-212529?style=flat&logo=42-school&logoColor=white" alt="42 School Network"/></p> -->
 
-
----
-
-### 🛠️ Skillset Showcase
-
-Here's a visual representation of my technical skills.
-*(Note: Some icons require specific services to render; the ones below use `github-readme-stats` which is already linked. For pure icons, you might use Devicon. Search for "devicon github readme" for more on that.)*
 
 ---
 
@@ -114,4 +90,3 @@ Here's a visual representation of my technical skills.
   <br>
   <p><em>Keep coding, keep learning!</em></p>
 </div>
-```
