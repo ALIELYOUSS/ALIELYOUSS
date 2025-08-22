@@ -32,10 +32,7 @@ I'm Ali Elyoussoufi, a professional C language programmer with a strong foundati
 *   **Tools & Platforms**: Git, GitHub, 42 School Ecosystem
 
 ---
-print(browse(urls=["https://github.com/42-AI/42-dev-badge", "https://github.com/labjacob/42-network-badge", "https://shields.io/category/authentication"]))
-print(browse(urls=["https://github.com/kayseren/github-profile-readme-files", "https://github.com/sudheerj/awesome-github-profile-readme"]))
-Browsing the web.
-Browsing the web.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIELYOUSS&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_progress=true&locale=en" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ALIELYOUSS&theme=dark&hide_border=true&background=00000000&stroke=ffffff&side_streak_banana=true&mode=weekly&border_radius=15&title_streak_color=ffffff&ring_color=ffffff&fire_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff" alt="GitHub Streak" />
